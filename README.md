@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,docker,html,css,postman,postgres,powershel)](https://skillicons.dev)
 <!--
 **San3ch3g/San3ch3g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
