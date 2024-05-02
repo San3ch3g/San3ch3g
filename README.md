@@ -18,9 +18,3 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-plain.svg" height="50" alt="googlecloud logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/San3ch3g/San3ch3g/output/snake.svg" alt="Snake animation" />
-
-###
