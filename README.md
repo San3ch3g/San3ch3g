@@ -1,10 +1,3 @@
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h2 align="center">🛠 Languages and tools</h2>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="50" alt="go logo"  />
