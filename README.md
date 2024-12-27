@@ -23,7 +23,7 @@ Constantly expanding my skill set and exploring new tools to deliver high-qualit
   <summary><b>APIs & Communication</b></summary>
   <br/>
   <img src="https://img.shields.io/badge/GRPC-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="GRPC">
-  <img src="https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white" alt="REST">
+  <img src="https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=api&logoColor=white" alt="REST">
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger">
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT">
 </details>
@@ -35,6 +35,7 @@ Constantly expanding my skill set and exploring new tools to deliver high-qualit
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB">
   <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 </details>
 
 <details>
